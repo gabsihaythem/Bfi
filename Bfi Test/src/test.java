@@ -9,6 +9,7 @@ public class test {
 		System.out.println("Hello eclipse !");
 		System.out.println("nizar check ");
 		System.out.println("change acount ");
+		System.out.println("change acounty ");
 		
 	}
 
